@@ -19,6 +19,24 @@ It tracks major coins like Bitcoin (BTC) and Ethereum (ETH), comparing their mar
 | `Market share by top currencies.PNG` | Visual sample |
 | `PRICES OF TOP CURRENCIES.PNG` | Comparison snapshot |
 
+# 🪙 Crypto Market Dashboard (Power BI)
+
+## 📸 Dashboard Preview
+Here’s a glimpse of the visuals included in the project 👇  
+
+### 🔹 BTC vs ETH Price Trend
+![BTC vs ETH Price Trend](Prices%20Trend%20btc%20vs%20eth.PNG)
+
+### 🔹 Top Currencies by Trading Volume
+![Top Currencies by Trading Volume](TOP%20CURRENCIES%20BY%20TRADING%20PIE.PNG)
+
+### 🔹 Market Share by Top Currencies
+![Market Share by Top Currencies](Market%20share%20by%20top%20currencies.PNG)
+
+### 🔹 Prices of Top Currencies
+![Prices of Top Currencies](PRICES%20OF%20TOP%20CURRENCIES.PNG)
+
+
 ## 🧠 Tools & Technologies
 - **Power BI Desktop**
 - **Power Query**
